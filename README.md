@@ -3,6 +3,8 @@
 
 A barebones Go app, which can easily be deployed to Heroku.
 
+[![Deploy](https://github.com/shaunmclernon/demo-go-heroku/actions/workflows/deploy.yml/badge.svg)](https://github.com/shaunmclernon/demo-go-heroku/actions/workflows/deploy.yml)
+
 This application supports the [Getting Started with Go on Heroku](https://devcenter.heroku.com/articles/getting-started-with-go) article - check it out.
 
 ## Running Locally
